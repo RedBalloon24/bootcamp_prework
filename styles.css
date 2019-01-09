@@ -1,4 +1,19 @@
-  /*NAVBAR*/
+/*BODY*/
+body {
+  margin: 0;
+  padding: 0;
+}
+.buttons {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 50px;
+  font-size: 1.5em;
+}
+
+
+/*NAVBAR*/
   nav {
     background-color: #C12127;
     color: rgba(249,249,249,0.8);
@@ -89,15 +104,9 @@
   }
   .button1 {
     background: rgb(240,146,51);
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
     padding: 10px 30px;
-    border-radius: 50px;
-    font-size: 1.5em;
   }
-  .img-buildings{
+   .img-buildings{
     float: right;
     width: 10%;
   }
@@ -136,20 +145,14 @@
   } 
   .button2{
     background: rgb(203,56,55);
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
     padding: 10px 40px;
-    border-radius: 50px;
-    font-size: 1.5em;
   }
   .link2 {
     text-decoration: none;
     color: white;
-    font-size: 1em;
-    
+    font-size: 1em;  
   }
+
 
   /*SECTION 2-NPM*/
   .npm {
@@ -174,13 +177,7 @@
   }
   .button3 {
     background: rgb(49,68,88);
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
     padding: 10px 30px;
-    border-radius: 50px;
-    font-size: 1.5em;
   }
 
 
